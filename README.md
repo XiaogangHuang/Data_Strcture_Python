@@ -1,6 +1,6 @@
 # Data Strcture Python
 
-*BFPRT:在无序数组中找到前k个最小的数
+-BFPRT:在无序数组中找到前k个最小的数
 
 -KMP:字符串匹配
 
@@ -8,4 +8,4 @@
 
 -RedBlackTree:红黑树及其扩展(区间树)和应用(约瑟夫排列、顺序统计量、最大覆盖数)
 
-*Skiplist:跳跃表
+-Skiplist:跳跃表
